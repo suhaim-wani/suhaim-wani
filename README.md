@@ -1,6 +1,6 @@
 # Suhaim Wani
 
-## Data Analyst | SQL | PostgreSQL | Business Intelligence
+## Data Analyst | Excel | SQL | PostgreSQL | Power BI | Business Intelligence
 
 I work with data to uncover patterns, assess risk, and improve business decisions across fintech, supply chain, SaaS, and e-commerce operations.
 
