@@ -1,56 +1,63 @@
 # Suhaim Wani
 
-## SQL and PostgreSQL Analytics Projects
+## Data Analyst | SQL | PostgreSQL | Business Intelligence
 
-This profile contains analytics projects focused on applying SQL and PostgreSQL to practical business problems across fintech, supply chain, SaaS, and e-commerce.
+I work with data to uncover patterns, assess risk, and improve business decisions across fintech, supply chain, SaaS, and e-commerce operations.
 
-## Areas of Focus
+## About Me
 
-- Transaction risk scoring and fraud detection
-- Sliding-window velocity attack detection
-- Geographic travel anomaly analytics
-- Supply-chain inventory health analysis
-- Reorder-point alerting
-- ABC analysis and dead-stock optimization
-- SaaS cohort retention and churn analysis
-- Monthly recurring revenue analysis
-- E-commerce sales performance and customer-retention analysis
+I focus on turning raw transactional and operational data into actionable insights through analytical modeling, SQL querying, and performance analysis. My work spans risk analytics, customer retention, inventory optimization, and business performance monitoring.
 
-## Selected Projects
-
-### Fintech Fraud Risk Engine
-
-A PostgreSQL project focused on transaction risk scoring, sliding-window velocity attack detection, and geographic travel anomaly analytics.
-
-[View repository](https://github.com/suhaim-wani/Fintech-fraud-risk-engine)
-
-### Inventory Health Optimization
-
-A PostgreSQL project covering supply-chain inventory health analytics, automated reorder-point alerting, and ABC dead-stock optimization.
-
-[View repository](https://github.com/suhaim-wani/Inventory-health-optimization)
-
-### SaaS Churn Analytics
-
-A PostgreSQL project analyzing SaaS subscription cohorts, retention, monthly recurring revenue growth, and churn rates.
-
-[View repository](https://github.com/suhaim-wani/SaaS-Churn_Analytics)
-
-### E-commerce SQL Analytics
-
-A PostgreSQL project focused on e-commerce sales performance and customer-retention analytics.
-
-[View repository](https://github.com/suhaim-wani/ecommerce_sql_analytics)
-
-## Technology Focus
+## Core Skills
 
 - SQL
 - PostgreSQL
-- Analytical data modeling and querying
-- Business and operational analytics
+- Data analysis and business reporting
+- Risk and anomaly analysis
+- Retention and churn analysis
+- Inventory and operations analytics
+- E-commerce performance analysis
+- Business intelligence and decision support
 
-## About This Profile
+## Featured Projects
 
-The projects in this profile demonstrate the use of SQL-based analysis to investigate business performance, identify operational risks, and support data-informed decision-making.
+### Fintech Fraud Risk Engine
 
-More projects and details will be added as the portfolio develops.
+A PostgreSQL-based analytics project covering transaction risk scoring, sliding-window velocity attack detection, and geo-travel anomaly analysis.
+
+[View project](https://github.com/suhaim-wani/Fintech-fraud-risk-engine)
+
+### Inventory Health Optimization
+
+A supply-chain analytics project focused on inventory health monitoring, reorder-point alerting, and ABC dead-stock optimization.
+
+[View project](https://github.com/suhaim-wani/Inventory-health-optimization)
+
+### SaaS Churn Analytics
+
+A business analytics project tracking cohort retention, MRR trends, churn behavior, and subscription performance.
+
+[View project](https://github.com/suhaim-wani/SaaS-Churn_Analytics)
+
+### E-commerce SQL Analytics
+
+An e-commerce analytics project designed to evaluate sales performance, customer retention, and operational trends using SQL.
+
+[View project](https://github.com/suhaim-wani/ecommerce_sql_analytics)
+
+## Technology Stack
+
+- PostgreSQL
+- SQL
+- GitHub
+- Data analysis workflows
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/suhaim-wani/)
+
+## GitHub Stats
+
+![Suhaim Wani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaim-wani&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaim-wani&layout=compact&theme=dark&hide_border=true)
