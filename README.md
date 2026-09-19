@@ -2,7 +2,7 @@
 
 ## Data Analyst | Excel | SQL | PostgreSQL | Power BI | Business Intelligence
 
-I work with data to uncover patterns, assess risk, and improve business decisions across fintech, supply chain, SaaS, and e-commerce operations.
+I work with data to uncover patterns, assess risk, and improve business decisions across fintech, supply chain, SaaS, and e-commerce operations
 
 ## About Me
 
@@ -10,7 +10,7 @@ I focus on turning raw transactional and operational data into actionable insigh
 
 ## Core Skills
 
-- Advanced Excel
+- Microsoft Excel
 - SQL
 - Power BI
 - PostgreSQL
@@ -47,7 +47,12 @@ An e-commerce analytics project designed to evaluate sales performance, customer
 
 [View project](https://github.com/suhaim-wani/ecommerce_sql_analytics)
 
-## Technology Stack
+## 🛠️ Technical Stack
+- **Databases & Query Engines:** PostgreSQL, pgAdmin 4, SQL (CTEs, Window Functions, DDL/DML Optimization)
+- **Data Analysis & Visualization:** Microsoft Excel (Pivot Tables, Slicers, Dynamic Dashboards)
+- **Developer Tools:** Git, GitHub, Command Line / PowerShell
+
+---
 
 - PostgreSQL
 - SQL
