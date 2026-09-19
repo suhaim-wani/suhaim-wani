@@ -10,7 +10,9 @@ I focus on turning raw transactional and operational data into actionable insigh
 
 ## Core Skills
 
+- Advanced Excel
 - SQL
+- Power BI
 - PostgreSQL
 - Data analysis and business reporting
 - Risk and anomaly analysis
